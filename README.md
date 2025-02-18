@@ -9,17 +9,19 @@ A lightweight file-based SQL database engine built from scratch in Python, featu
 🔹Lightweight & Standalone – No external dependencies; runs on any system with Python. <br />
 
 Getting Started
-1. Installation
+1. Installation <br />
 Clone the repository and navigate to the project directory:
 
-git clone https://github.com/yourusername/preql-database.git
+```
+git clone https://github.com/rafid-khan/preql-database.git
 cd preql-database
+```
 
-2. Running the Database
+2. Running the Database <br />
 Run the database engine:
-
+```
 python preql.py
-
+```
 **3. Example Queries**
 - Create a Table <br />
 CREATE TABLE users (id INT PRIMARY KEY, name TEXT, age INT); <br />
