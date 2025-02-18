@@ -1,4 +1,4 @@
-PreQL: Custom SQL Database Engine 🚀
+***PreQL: Custom SQL Database Engine***  <br />
 A lightweight file-based SQL database engine built from scratch in Python, featuring query processing, indexing, and transaction management. Designed to efficiently handle and manipulate large datasets with optimized retrieval speeds.
 
 🔹 SQL Query Processing – Supports SELECT, INSERT, UPDATE, and DELETE operations. <br /> 
