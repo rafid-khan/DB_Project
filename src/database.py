@@ -1,6 +1,6 @@
-from storage import Storage
-from schema import Schema
-from query_parser import QueryParser
+from src.storage import Storage
+from src.schema import Schema
+from src.query_parser import QueryParser
 
 class Database:
     def __init__(self):
